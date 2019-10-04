@@ -35,3 +35,4 @@ frontend/.gitignore
 
 #backend
 backend/node_modules/**/*
+backend/uploads/**
